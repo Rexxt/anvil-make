@@ -6,6 +6,10 @@ Based on a Makefile by [Stéfane Paris](http://stefane.paris.free.fr), Universit
 ## Why?
 It makes creating, building and distributing modular projects a breeze. You simply pick the Makefile you need (depending on your programming language stack of choice), download it as `Makefile`, set some metadata (project title, short identifier, description, authors, creation date, version), the appropriate data for building the project (for C: directories, headers, source files...) and you have a working project!
 
+An additional goal is for the Makefile to be usable as a learning tool for building code projects and understanding how Makefiles work and what they can be used to do.
+
+Anvil Makefiles are written exclusively by humans, for humans, and attempt to explain what they do to potential human readers.
+
 ## Features
 * Commands for building, running and creating redistributables for your project.
 * Platform-responsive: Anvil adapts to whatever platform and operating system you use for building your project.
