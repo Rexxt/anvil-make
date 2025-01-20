@@ -9,8 +9,10 @@
 # by Mizu
 # Adapted from work by Stéfane Paris, https://stefane.paris.free.fr
 
-# Project Data:
+# --------------------------------
+# PROJECT DATA:
 # Fill out information about the project below.
+# --------------------------------
 
 # Example: "Gir - Git command wrapper"
 PROJECT_TITLE = ...
