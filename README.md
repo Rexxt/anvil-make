@@ -10,6 +10,7 @@ It makes creating, building and distributing modular projects a breeze. You simp
 * Commands for building, running and creating redistributables for your project.
 * Platform-responsive: Anvil adapts to whatever platform and operating system you use for building your project.
 * Automatic info file generation when distributing.
+* Possibly colourized output messages to help understand what Make and Anvil do?
 
 ## Commands
 * `make [project_name]`: compile your project to a final file. The default directories are `./obj` for object files, and `./build` for the final binary.
