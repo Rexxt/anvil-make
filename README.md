@@ -1,7 +1,7 @@
 # anvil-make
 Anvil is a comprehensive Makefile for building and distributing projects cleanly. Originally geared towards C projects for my university.
 
-Based on a Makefile by [Stéfane Paris](https://stefane.paris.free.fr), Université de Lorraine.
+Based on a Makefile by [Stéfane Paris](http://stefane.paris.free.fr), Université de Lorraine.
 
 ## Why?
 It makes creating, building and distributing modular projects a breeze. You simply pick the Makefile you need (depending on your programming language stack of choice), download it as `Makefile`, set some metadata (project title, short identifier, description, authors, creation date, version), the appropriate data for building the project (for C: directories, headers, source files...) and you have a working project!
