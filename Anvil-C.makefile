@@ -135,11 +135,10 @@ dirs:
 	@mkdir -p bin
 	@mkdir -p obj
 
+$(PROG): anvil-header $(OBJ)
+	$(COMPILER) $(CFLAGS) -o $@ $^
 build: $(PROG)
 $(PROJECT_ID): $(PROG)
-
-$(PROG): $(OBJ)
-	$(COMPILER) $(CFLAGS) -o $@ $^
 
 $(DIROBJECTS)/%.o: $(DIR_SRC)/%.c $(DEP)
 	echo $@ " :: " $<
