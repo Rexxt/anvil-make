@@ -14,8 +14,13 @@
 # Fill out information about the project below.
 # --------------------------------
 
-# Example: "Gir - Git command wrapper"
+# Example: "GNU Compiler Collection"
 PROJECT_TITLE = ...
-# Example: gir
+# Example: gcc
 PROJECT_ID = ...
+
+# Example: "GNU Project, Richard Stallman"
 PROJECT_AUTHORS = ...
+
+# Example: 1986-10-30
+PROJECT_CREATION = YYYY-MM-DD
