@@ -56,8 +56,8 @@ OBJECTS = $(DEPENDENCIES) main
 
 # ----------------------------------------------------------------
 # INNER WORKINGS OF ANVIL
-# /!\ It is not recommended to modify this part unles your project
-# has specific needs not automatically achieved by Anvil.
+# /!\ It is not recommended to modify this part unless your
+# project has specific needs not automatically achieved by Anvil.
 # ----------------------------------------------------------------
 
 # ================================================================
