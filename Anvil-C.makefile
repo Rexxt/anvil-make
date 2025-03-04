@@ -65,7 +65,7 @@ OBJECTS = $(DEPENDENCIES) main
 # ================================================================
 
 # Revision number of the Makefile.
-ANVIL_REV = 1
+ANVIL_REV = 2
 
 # The final binary of the project.
 # Prepends the build directory to the related executable path.
